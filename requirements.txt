@@ -1,0 +1,20 @@
+# Core LangChain
+langchain>=0.1.0
+
+# OpenAI LLMs & embeddings
+openai>=0.27.0
+
+# Vector database
+pinecone>=2.3.0
+
+# Environment variables
+python-dotenv>=1.0.0 
+
+# Document loaders (for URLs, PDFs, DOCX)
+langchain-community>=0.1.0
+unstructured>=0.6.6
+pdfminer.six>=20231228
+tqdm>=4.64.0
+
+# Optional: Web app UI
+streamlit>=1.24.0

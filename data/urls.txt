@@ -1,0 +1,15 @@
+# Iron Deficiency
+https://www.who.int/news-room/fact-sheets/detail/anaemia
+#https://www.cdc.gov/ncbddd/hemoglobinopathies/iron-deficiency.html
+#https://www.nhs.uk/conditions/iron-deficiency-anaemia/
+
+# Anemia
+#https://www.cdc.gov/ncbddd/anemia/facts.html
+#https://www.mayoclinic.org/diseases-conditions/anemia/symptoms-causes/syc-20351360
+#https://www.who.int/health-topics/anaemia
+
+# Diabetes
+#https://www.cdc.gov/diabetes/basics/diabetes.html
+#https://www.who.int/news-room/fact-sheets/detail/diabetes
+#https://www.nhs.uk/conditions/diabetes/
+#https://www.mayoclinic.org/diseases-conditions/diabetes/symptoms-causes/syc-20371444
